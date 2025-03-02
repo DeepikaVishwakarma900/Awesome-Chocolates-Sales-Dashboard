@@ -4,7 +4,7 @@ The Awesome Chocolates Sales Dashboard provides an in-depth analysis of sales, p
 # Key Features :
 📌Sales Overview: Displays total sales of $34M, monthly sales comparison, and profit margins of 151.8%.
 
-📦Shipments & Logistics:  Analyzes 6K shipments with a 10.2% LBS percentage, visualized through bar charts and gauges.
+📦Shipments & Logistics:  Analyzed 6K shipments with a 10.2% LBS percentage, visualized through bar charts and gauges.
 
 📊Sales Trends:  A line chart showcasing monthly sales performance and fluctuations.
 
